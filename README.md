@@ -1,1 +1,1 @@
-- [One More Doc](./Document_Object_Model.md)
+- [Document Object Model](./Document_Object_Model.md)
